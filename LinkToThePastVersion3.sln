@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkToThePastArena", "LinkToThePastArena\LinkToThePastArena\LinkToThePastArena.csproj", "{CF5ED7AB-C270-403F-AD4E-100BFA4537B2}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "LinkToThePastArenaContent", "LinkToThePastArena\LinkToThePastArenaContent\LinkToThePastArenaContent.contentproj", "{93611608-78BE-4571-956F-3A79E5DC5B79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameFramework2D", "..\GameTemplate2D\GameFramework2D\GameFramework2D.csproj", "{FC78DF50-4103-4B9C-A7ED-158B274D493D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF5ED7AB-C270-403F-AD4E-100BFA4537B2}.Debug|x86.ActiveCfg = Debug|x86
+		{CF5ED7AB-C270-403F-AD4E-100BFA4537B2}.Debug|x86.Build.0 = Debug|x86
+		{CF5ED7AB-C270-403F-AD4E-100BFA4537B2}.Release|x86.ActiveCfg = Release|x86
+		{CF5ED7AB-C270-403F-AD4E-100BFA4537B2}.Release|x86.Build.0 = Release|x86
+		{93611608-78BE-4571-956F-3A79E5DC5B79}.Debug|x86.ActiveCfg = Debug|x86
+		{93611608-78BE-4571-956F-3A79E5DC5B79}.Release|x86.ActiveCfg = Release|x86
+		{FC78DF50-4103-4B9C-A7ED-158B274D493D}.Debug|x86.ActiveCfg = Debug|x86
+		{FC78DF50-4103-4B9C-A7ED-158B274D493D}.Debug|x86.Build.0 = Debug|x86
+		{FC78DF50-4103-4B9C-A7ED-158B274D493D}.Release|x86.ActiveCfg = Release|x86
+		{FC78DF50-4103-4B9C-A7ED-158B274D493D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
