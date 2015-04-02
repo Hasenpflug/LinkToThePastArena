@@ -81,7 +81,8 @@ namespace LinkToThePastArena.Scenes
                     Wall wall = (Wall)component;
                     if (link.GetMask().Intersects(wall.GetMask()))
                     {
-                        link.Stop();
+                        // link.Stop();
+                        link.Push(new Vector2(link.GetMask().Width - (wall.GetMask().X - link.GetMask().X), link.GetMask().Height - (wall.GetMask().Y - link.GetMask().Y)));  
                     }
                 }
 	        }

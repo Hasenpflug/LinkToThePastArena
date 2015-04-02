@@ -30,8 +30,8 @@ namespace LinkToThePastArena
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
             Shared.AllAnimations = FileIO.LoadAllAnimations();
-            graphics.PreferredBackBufferWidth = Convert.ToInt16(Shared.AllAnimations["Background_Arena"].frames[0].frameWidth * Shared.GlobalSpriteScaleFactor);
-            graphics.PreferredBackBufferHeight = Convert.ToInt16(Shared.AllAnimations["Background_Arena"].frames[0].frameHeight * Shared.GlobalSpriteScaleFactor);
+            graphics.PreferredBackBufferWidth = Convert.ToInt16(Shared.AllAnimations["Background_Arena"].frames[0].frameWidth);
+            graphics.PreferredBackBufferHeight = Convert.ToInt16(Shared.AllAnimations["Background_Arena"].frames[0].frameHeight);
             Shared.stage = new Vector2(graphics.PreferredBackBufferWidth, graphics.PreferredBackBufferHeight);
         }
 

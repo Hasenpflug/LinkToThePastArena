@@ -2,58 +2,22 @@
 <XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
   <Asset Type="Pipeline:BuildItemCollection">
     <Item>
+      <Source>ChurchAreaSpriteSheet.png</Source>
+      <Name>ChurchAreaSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\TEMP\LinkToThePastVersion3\LinkToThePastArena\LinkToThePastArena\LinkToThePastArena\bin\x86\Debug\Content\ChurchAreaSpriteSheet.xnb</Output>
+      <Time>2015-03-30T11:45:47.7061679-04:00</Time>
+    </Item>
+    <Item>
       <Source>EnemiesSpriteSheet2.png</Source>
       <Name>EnemiesSpriteSheet2</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\TEMP\LinkToThePastVersion3\LinkToThePastArena\LinkToThePastArena\bin\x86\Debug\Content\EnemiesSpriteSheet2.xnb</Output>
-      <Time>2015-03-26T14:17:57.8091777-04:00</Time>
-    </Item>
-    <Item>
-      <Source>LinkHouseAreaSpriteSheet.png</Source>
-      <Name>LinkHouseAreaSpriteSheet</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\TEMP\LinkToThePastVersion3\LinkToThePastArena\LinkToThePastArena\bin\x86\Debug\Content\LinkHouseAreaSpriteSheet.xnb</Output>
-      <Time>2015-03-26T14:17:57.8211789-04:00</Time>
-    </Item>
-    <Item>
-      <Source>LinkSpriteSheet2.png</Source>
-      <Name>LinkSpriteSheet2</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\TEMP\LinkToThePastVersion3\LinkToThePastArena\LinkToThePastArena\bin\x86\Debug\Content\LinkSpriteSheet2.xnb</Output>
-      <Time>2015-03-26T14:17:57.83218-04:00</Time>
-    </Item>
-    <Item>
-      <Source>LinkSpriteSheet3.png</Source>
-      <Name>LinkSpriteSheet3</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\TEMP\LinkToThePastVersion3\LinkToThePastArena\LinkToThePastArena\bin\x86\Debug\Content\LinkSpriteSheet3.xnb</Output>
-      <Time>2015-03-26T14:17:57.8381806-04:00</Time>
-    </Item>
-    <Item>
-      <Source>LinkSpriteSheet4.png</Source>
-      <Name>LinkSpriteSheet4</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\TEMP\LinkToThePastVersion3\LinkToThePastArena\LinkToThePastArena\bin\x86\Debug\Content\LinkSpriteSheet4.xnb</Output>
-      <Time>2015-03-26T14:17:57.842181-04:00</Time>
-    </Item>
-    <Item>
-      <Source>NPCSpriteSheet.png</Source>
-      <Name>NPCSpriteSheet</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\TEMP\LinkToThePastVersion3\LinkToThePastArena\LinkToThePastArena\bin\x86\Debug\Content\NPCSpriteSheet.xnb</Output>
-      <Time>2015-03-26T14:17:57.8451813-04:00</Time>
+      <Output>C:\TEMP\LinkToThePastVersion3\LinkToThePastArena\LinkToThePastArena\LinkToThePastArena\bin\x86\Debug\Content\EnemiesSpriteSheet2.xnb</Output>
+      <Time>2015-03-30T11:45:47.7141687-04:00</Time>
     </Item>
     <Item>
       <Source>LargeOpenGrassArea.png</Source>
@@ -61,29 +25,17 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\TEMP\LinkToThePastVersion3\LinkToThePastArena\LinkToThePastArena\bin\x86\Debug\Content\LargeOpenGrassArea.xnb</Output>
-      <Time>2015-03-26T14:17:57.8161784-04:00</Time>
+      <Output>C:\TEMP\LinkToThePastVersion3\LinkToThePastArena\LinkToThePastArena\LinkToThePastArena\bin\x86\Debug\Content\LargeOpenGrassArea.xnb</Output>
+      <Time>2015-03-30T12:17:18.8522636-04:00</Time>
     </Item>
     <Item>
-      <Source>LinkSpriteSheet1.png</Source>
-      <Name>LinkSpriteSheet1</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Parameters>
-        <Data Key="ColorKeyColor">0, 128, 128, 255</Data>
-      </Parameters>
-      <Options>None</Options>
-      <Output>C:\TEMP\LinkToThePastVersion3\LinkToThePastArena\LinkToThePastArena\bin\x86\Debug\Content\LinkSpriteSheet1.xnb</Output>
-      <Time>2015-03-26T14:17:57.8281796-04:00</Time>
-    </Item>
-    <Item>
-      <Source>ChurchAreaSpriteSheet.png</Source>
-      <Name>ChurchAreaSpriteSheet</Name>
+      <Source>LinkHouseAreaSpriteSheet.png</Source>
+      <Name>LinkHouseAreaSpriteSheet</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\TEMP\LinkToThePastVersion3\LinkToThePastArena\LinkToThePastArena\bin\x86\Debug\Content\ChurchAreaSpriteSheet.xnb</Output>
-      <Time>2015-03-26T14:17:57.7971765-04:00</Time>
+      <Output>C:\TEMP\LinkToThePastVersion3\LinkToThePastArena\LinkToThePastArena\LinkToThePastArena\bin\x86\Debug\Content\LinkHouseAreaSpriteSheet.xnb</Output>
+      <Time>2015-03-30T11:45:47.72717-04:00</Time>
     </Item>
     <Item>
       <Source>LinkPartsSpriteSheet.png</Source>
@@ -91,8 +43,44 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\TEMP\LinkToThePastVersion3\LinkToThePastArena\LinkToThePastArena\bin\x86\Debug\Content\LinkPartsSpriteSheet.xnb</Output>
-      <Time>2015-03-26T14:17:57.8241792-04:00</Time>
+      <Output>C:\TEMP\LinkToThePastVersion3\LinkToThePastArena\LinkToThePastArena\LinkToThePastArena\bin\x86\Debug\Content\LinkPartsSpriteSheet.xnb</Output>
+      <Time>2015-03-30T11:45:47.7301703-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LinkSpriteSheet2.png</Source>
+      <Name>LinkSpriteSheet2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\TEMP\LinkToThePastVersion3\LinkToThePastArena\LinkToThePastArena\LinkToThePastArena\bin\x86\Debug\Content\LinkSpriteSheet2.xnb</Output>
+      <Time>2015-03-30T11:45:47.7401713-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LinkSpriteSheet3.png</Source>
+      <Name>LinkSpriteSheet3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\TEMP\LinkToThePastVersion3\LinkToThePastArena\LinkToThePastArena\LinkToThePastArena\bin\x86\Debug\Content\LinkSpriteSheet3.xnb</Output>
+      <Time>2015-03-30T11:45:47.7441717-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LinkSpriteSheet4.png</Source>
+      <Name>LinkSpriteSheet4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\TEMP\LinkToThePastVersion3\LinkToThePastArena\LinkToThePastArena\LinkToThePastArena\bin\x86\Debug\Content\LinkSpriteSheet4.xnb</Output>
+      <Time>2015-03-30T11:45:47.747172-04:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCSpriteSheet.png</Source>
+      <Name>NPCSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\TEMP\LinkToThePastVersion3\LinkToThePastArena\LinkToThePastArena\LinkToThePastArena\bin\x86\Debug\Content\NPCSpriteSheet.xnb</Output>
+      <Time>2015-03-30T11:45:47.7531726-04:00</Time>
     </Item>
     <Item>
       <Source>EnemiesSpriteSheet1.png</Source>
@@ -103,8 +91,20 @@
         <Data Key="ColorKeyColor">128, 128, 128, 255</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>C:\TEMP\LinkToThePastVersion3\LinkToThePastArena\LinkToThePastArena\bin\x86\Debug\Content\EnemiesSpriteSheet1.xnb</Output>
-      <Time>2015-03-26T14:17:57.802177-04:00</Time>
+      <Output>C:\TEMP\LinkToThePastVersion3\LinkToThePastArena\LinkToThePastArena\LinkToThePastArena\bin\x86\Debug\Content\EnemiesSpriteSheet1.xnb</Output>
+      <Time>2015-03-30T11:45:47.7101683-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LinkSpriteSheet1.png</Source>
+      <Name>LinkSpriteSheet1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 128, 128, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\TEMP\LinkToThePastVersion3\LinkToThePastArena\LinkToThePastArena\LinkToThePastArena\bin\x86\Debug\Content\LinkSpriteSheet1.xnb</Output>
+      <Time>2015-03-30T11:45:47.7361709-04:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -113,10 +113,10 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\TEMP\LinkToThePastVersion3\LinkToThePastArena\LinkToThePastArenaContent\</RootDirectory>
-      <LoggerRootDirectory>C:\TEMP\LinkToThePastVersion3\LinkToThePastArena\LinkToThePastArena\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\TEMP\LinkToThePastVersion3\LinkToThePastArena\LinkToThePastArena\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\TEMP\LinkToThePastVersion3\LinkToThePastArena\LinkToThePastArena\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\TEMP\LinkToThePastVersion3\LinkToThePastArena\LinkToThePastArena\LinkToThePastArenaContent\</RootDirectory>
+      <LoggerRootDirectory>C:\TEMP\LinkToThePastVersion3\LinkToThePastArena\LinkToThePastArena\LinkToThePastArena\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\TEMP\LinkToThePastVersion3\LinkToThePastArena\LinkToThePastArena\LinkToThePastArena\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\TEMP\LinkToThePastVersion3\LinkToThePastArena\LinkToThePastArena\LinkToThePastArena\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

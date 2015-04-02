@@ -1,1 +1,2 @@
 C:\TEMP\LinkToThePastVersion3\LinkToThePastArena\LinkToThePastArenaContent\obj\x86\Debug\LinkToThePastArenaContent.contentprojResolveAssemblyReference.cache
+C:\TEMP\LinkToThePastVersion3\LinkToThePastArena\LinkToThePastArena\LinkToThePastArenaContent\obj\x86\Debug\LinkToThePastArenaContent.contentprojResolveAssemblyReference.cache

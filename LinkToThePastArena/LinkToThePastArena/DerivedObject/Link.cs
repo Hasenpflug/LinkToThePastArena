@@ -153,12 +153,12 @@ namespace LinkToThePastArena.DerivedObject
                     if (state.IndexOf("Left") > 0)
                     {
                         animationName = "Link_GreenTunic_Sword_Slashing_Right";
-                        state = "Slashing_Left";
+                        state = "Attacking_Left";
                     }
                     else
                     {
                         animationName = "Link_GreenTunic_Sword_Slashing" + state.Substring(state.LastIndexOf('_'));
-                        state = "Slashing" + state.Substring(state.LastIndexOf('_'));
+                        state = "Attacking" + state.Substring(state.LastIndexOf('_'));
                     }
                    
                     velocity = 0f;

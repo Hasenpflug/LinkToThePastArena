@@ -90,7 +90,7 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\GameTemplate2D\GameFramework2D\GameFramework2D.csproj">
+    <ProjectReference Include="..\..\..\..\GameTemplate2D\GameFramework2D\GameFramework2D\GameFramework2D.csproj">
       <Project>{FC78DF50-4103-4B9C-A7ED-158B274D493D}</Project>
       <Name>GameFramework2D</Name>
     </ProjectReference>
