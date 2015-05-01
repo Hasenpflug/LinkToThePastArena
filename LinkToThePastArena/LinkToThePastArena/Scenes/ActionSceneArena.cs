@@ -81,8 +81,18 @@ namespace LinkToThePastArena.Scenes
                     Wall wall = (Wall)component;
                     if (link.GetMask().Intersects(wall.GetMask()))
                     {
-                        // link.Stop();
-                        link.Push(new Vector2(link.GetMask().Width - (wall.GetMask().X - link.GetMask().X), link.GetMask().Height - (wall.GetMask().Y - link.GetMask().Y)));  
+                        if (link.GetMask().X > wall.GetMask().X && link.GetMask().X < wall.GetMask().X + wall.GetMask().Width)
+                        {
+                            link.Push(new Vector2(wall.GetMask().Width - (link.GetMask().X - wall.GetMask().X), 0));
+                        }
+                        else if (link.GetMask().X < wall.GetMask().X && link.GetMask().X < wall.GetMask().X + wall.GetMask().Width)
+                        {
+                            link.Push(new Vector2((wall.GetMask().X - link.GetMask().X) - link.GetMask().Width, 0));
+                        }
+                        else if (wall.GetMask().Y < link.GetMask().Y + link.GetMask().Height)
+                        {
+                            link.Push(new Vector2((wall.GetMask().X - link.GetMask().X) - link.GetMask().Width, 0));
+                        }                        
                     }
                 }
 	        }
